@@ -1,0 +1,20 @@
+.Login{
+    text-align: center;
+
+}
+.Login-Header{
+  text-align: center;
+  background-color: rgb(31, 33, 75);
+  height: 250px;
+  padding: 200px;
+  width: 500px; 
+  color: rgba(242, 238, 245, 0.986);
+  margin: auto;
+  margin-top: 200px;
+}
+.Login-title{
+    font-size: 1.5em;
+}
+.btn{
+    background-color: rgb(160, 177, 9);
+}
